@@ -1,8 +1,4 @@
-body{
-    margin:0;
-    font-family:Inter
-}
-.top-part{
+.top-part{ 
     background-color:#ffcd9e;
     display:flex
 }
@@ -19,6 +15,7 @@ body{
     width:80%
 }
 .info{
+    font-family:Inter;
     font-style:normal;
     font-weight:500;
     font-size:20px;
@@ -27,6 +24,7 @@ body{
     line-height:160%
 }
 .h2{
+    font-family:Inter;
     font-style:normal;
     font-weight:800;
     font-size:20px;
@@ -45,6 +43,7 @@ input{
     border:3px solid #000000
 }
 button{
+    font-family:Inter;
     background:#282828;
     border:none;
     border-radius:8px;
@@ -57,6 +56,7 @@ button{
     cursor:pointer
 }
 .last-line{
+    font-family:Inter;
     font-style:normal;
     font-weight:500;
     font-size:16px;
@@ -77,6 +77,7 @@ button{
     padding-right: 180px;
 }
 .footer ul li{
+    font-family:Inter;
     list-style-type: none;
     margin-bottom:8px;
     cursor:pointer
